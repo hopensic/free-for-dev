@@ -23,6 +23,7 @@
    * cPanel like PHP + MySQL hosting services.
    * Free dns services that are generic frontends to CloudFlare or similar
    * Services that are verbatim copy pastes of others while adding no value
+   * Fake / Temporary / Ephemeral email generators, we have enough of those
 -->
 
 ## Requirements
@@ -36,3 +37,4 @@
  * [ ] The submission mentions what is free
  * [ ] The submission is not already present in the list
  * [ ] The service has contact details of those running it and a privacy policy
+
